@@ -1,6 +1,6 @@
 #UC Berkeley Pacman AI Projects (Spring 2022)
 
-This repository contains my solutions to the **UC Berkeley CS188: Artificial Intelligence** Pacman projects (Spring 2022 term).  
+This repository contains my solutions to the **UC Berkeley CS188: Artificial Intelligence** Pacman projects (Spring 2023 term).  
 Each module focuses on a different aspect of AI — including **search algorithms**, **adversarial agents**, and **reinforcement learning** — implemented in Python.
 
 ---
