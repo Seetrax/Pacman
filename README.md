@@ -17,7 +17,7 @@ Implemented classical search algorithms to help Pacman navigate mazes efficientl
 - Focus: Understanding heuristic design and optimal pathfinding.
 
 ### 2. **Adversarial Agents**
-Developed intelligent ghost and Pacman agents for competitive gameplay. This modeule gives a better understanding of how adverserial agents behave when following minimax strategy
+Developed intelligent ghost and Pacman agents for competitive gameplay. This module gives a better understanding of how adverserial agents behave when following minimax strategy
 
 - Techniques: **Minimax**, **Alpha-Beta Pruning**, and **Expectiminimax**.
 - Focus: Game tree search, evaluation functions, and decision-making under uncertainty.
