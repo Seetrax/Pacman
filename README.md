@@ -4,6 +4,7 @@ This repository contains my solutions to the **UC Berkeley CS188: Artificial Int
 Each module focuses on a different aspect of AI — including **search algorithms**, **adversarial agents**, and **reinforcement learning** — implemented in Python.
 
 These modules were very helpful in order to visulaize various theoretical topics in the form of a game. 
+
 ---
 
 ## Project Overview
